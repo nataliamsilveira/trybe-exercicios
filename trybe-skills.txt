@@ -4,3 +4,14 @@ O que eu vou aprender na Trybe:
 - Bash
 - Git
 - React
+O que eu vou aprender na Trybe:
+
+- Unix
+- Bash
+- Git
+O que eu vou aprender na Trybe:
+
+- Unix
+- Bash
+- Git
+- React
